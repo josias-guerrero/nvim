@@ -10,7 +10,6 @@ return {
   },
   {
     "barrett-ruth/live-server.nvim",
-    config = true,
   },
   { "mlaursen/vim-react-snippets" },
   { "mbbill/undotree" },
